@@ -1,0 +1,19 @@
+[
+  "pH",
+  "EC_mS_cm",
+  "temp_C",
+  "do_mg_L",
+  "pH_mean",
+  "pH_std",
+  "dpH",
+  "EC_mS_cm_mean",
+  "EC_mS_cm_std",
+  "dEC_mS_cm",
+  "temp_C_mean",
+  "temp_C_std",
+  "dtemp_C",
+  "do_mg_L_mean",
+  "do_mg_L_std",
+  "ddo_mg_L",
+  "temp_do_risk"
+]

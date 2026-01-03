@@ -1,0 +1,8 @@
+{
+  "csv_path": "data/greenhouse_hydroponics_2tanks_7days_10min.csv",
+  "window_steps": 3,
+  "contamination": 0.03,
+  "train_frac": 0.7,
+  "score_norm_p_low": 0.3963517754962503,
+  "score_norm_p_high": 0.6024434533023951
+}
